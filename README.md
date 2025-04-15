@@ -6,7 +6,7 @@ Este repositorio contiene código para hacer mi vida más fácil.
 
 ## Proyectos
 
-### [1-titulos-ingeniero-creativo](output/README.md)
+### [1-titulos-ingeniero-creativo](1-titulos-ingeniero-creativo/README.md)
 
 Para la creación de diapositivas, mi herramienta principal es Google Slides. Sin embargo, solo se da soporte a determinadas fuentes de texto y, para variar... ¡la mía no se encuentra en esa lista!
 
